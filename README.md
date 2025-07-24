@@ -1,12 +1,19 @@
-# React + Vite
+# Личная визитка на React + Vite + Tailwind CSS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Небольшой одностраничный сайт‑портфолио.  
+Позволяет познакомить посетителей с краткой информацией обо мне, ссылками на соцсети и переключателем светлой / тёмной темы.
 
-Currently, two official plugins are available:
+> **Stack**: React + Vite • Tailwind CSS • JSX • Адаптивная вёрстка
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Быстрый старт
 
-## Expanding the ESLint configuration
+```bash
+# 1. Клонируем репозиторий
+git clone https://github.com/yourname/visit-card.git
+cd visit-card
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# 2. Устанавливаем зависимости
+npm install   # или pnpm install / yarn
+
+# 3. Запускаем локально
+npm run dev   # http://localhost:5173
