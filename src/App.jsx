@@ -18,7 +18,6 @@ export default function App() {
   return (
     <div className={dark ? "dark" : ""}>
       <div className="min-h-screen bg-gray-100 dark:bg-gray-900 transition-colors duration-300 flex flex-col items-center px-4">
-        {/* Кнопка темы */}
         <button
           onClick={() => setDark(!dark)}
           className=" mt-4 text-sm  text-gray-600 dark:text-gray-300"
