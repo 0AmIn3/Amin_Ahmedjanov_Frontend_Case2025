@@ -9,7 +9,7 @@
 
 ```bash
 # 1. Клонируем репозиторий
-git clone https://github.com/yourname/visit-card.git
+git clone https://github.com/0AmIn3/Amin_Ahmedjanov_Frontend_Case2025.git
 cd visit-card
 
 # 2. Устанавливаем зависимости
